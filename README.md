@@ -61,7 +61,7 @@ Tutsup - Curso de HTML Grátis
 	<div class="principal">
 		<div class="cabecalho">
 			<div class="logo-cabecalho">
-				<a href="./">Meu blog pessoal</a>
+				<a href="./">progeto site</a>
 			</div>
 			
 			<div class="pesquisa">
