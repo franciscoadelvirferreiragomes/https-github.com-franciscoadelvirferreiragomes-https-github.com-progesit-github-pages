@@ -5,8 +5,8 @@ https://github.com/progesit/github-pages
 Cabeçalho
 Logo (Esquerda)
 Link para a home do site
-Pesquisa (Direita)
-Menu -Lista de links do site
+Pesquisa (site)
+Menu - site
 Corpo
 Artigos
 Espaçamento
@@ -18,11 +18,11 @@ Rodapé
 Texto centralizado
 	<link rel="stylesheet" type="text/css" href="meuestilo.css">
 
-	<title>Título</title>
+	<title>site</title>
 </head>
 
 <body>
-	Tags do atenção
+	Tags do site
 </body>
 /* Meu CSS */
 
@@ -41,7 +41,7 @@ a, a img{ text-decoration:none; border:none; } img{ max-width:100%; height:auto;
 <div class="rodape">
 
 </div>
-Meu blog pessoal
+progeto site
 Início
 Artigos
 Contato
