@@ -1,7 +1,6 @@
 # https-github.com-progesit-github-pages
 https://github.com/progesit/github-pages
 https-github.com-franciscoadelvirferreiragomes-https-github.com-progesit-github-pages
-bifurcação de franciscoadelvirferreiragomes/https-github.com-franciscoadelvirferreiragomes-https-github.com-progesit-github-pages
 
 
 Cabeçalho
